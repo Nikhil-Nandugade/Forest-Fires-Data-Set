@@ -1,6 +1,6 @@
 # Forest-Fires-Data-Set
 # SVM &amp; Naive Bayes Algorithm
--
+
 # Methods Applied
 
 -Data Cleaning
@@ -11,7 +11,7 @@
 -Model Evaluation
 -Hyperparameter Tuning
 
--
+
 # Softeares and Libraries used
 
 -Python - Jupyter Notebook ver -3.11
