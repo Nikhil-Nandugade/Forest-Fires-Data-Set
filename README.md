@@ -1,7 +1,7 @@
 # Forest-Fires-Data-Set
 # SVM &amp; Naive Bayes Algorithm
 
-# Methods Applied
+# Methods Applied;
 
 Data Cleaning
 Data transformastion
